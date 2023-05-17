@@ -31,8 +31,6 @@
 							<GridViewProperties>
 								<SettingsBehavior AllowFocusedRow="True" AllowSelectByRowClick="True" 
 									AllowSelectSingleRowOnly="True" />
-								<SettingsBehavior AllowFocusedRow="True" AllowSelectByRowClick="True" 
-									AllowSelectSingleRowOnly="True" />
 							</GridViewProperties>
 							<Columns>
 								<dx:GridViewDataTextColumn FieldName="CategoryID" ReadOnly="True" 
