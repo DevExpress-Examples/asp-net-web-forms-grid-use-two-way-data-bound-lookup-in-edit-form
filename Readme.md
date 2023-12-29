@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use a two-way data-bound grid lookup in the grid's edit form
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543800/)**
-<!-- run online end -->
 
 This example demonstrates how to create a column edit item template, add a grid lookup control to the template, and use the control's `DataSourceID` property and `Bind` method to bind the control to data sources.
 
